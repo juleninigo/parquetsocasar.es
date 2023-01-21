@@ -544,7 +544,7 @@ button {
 .blog_section {
     width: 100%;
     float: left;
-    background-image: url(../images/blog-bg.png);
+    background-image: url(../images/fondo.jpg);
     height: auto;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -896,7 +896,7 @@ button {
 .footer_section {
     width: 100%;
     float: left;
-    background-image: url(../images/footer-bg.png);
+    background-image: url(../images/footer-julen.png);
     height: auto;
     padding-top: 250px;
     background-size: 100% 100%;
