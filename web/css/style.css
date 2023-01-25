@@ -456,6 +456,7 @@ button {
     background-color: #2b2278;
     text-align: center;
     padding: 10px 0px;
+    margin-bottom: 15px;
     border-radius: 30px;
     font-weight: bold;
     margin-top: 40px;
@@ -470,6 +471,7 @@ button {
 .btn_main.active a {
     color: #ffffff;
     background-color: #000d10;
+    
 }
 
 
