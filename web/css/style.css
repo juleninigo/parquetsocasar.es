@@ -788,7 +788,7 @@ button {
 }
 
 .read_bt_1 a:hover {
-    background-color: #2b2278;
+    background-color: white;
     color: #ffffff;
 }
 
@@ -850,6 +850,22 @@ button {
     text-align: center;
     font-weight: bold;
 }
+.contact_taital2 a {
+    width: 100%;
+    float: left;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.contact_taital2 a:hover {
+    width: 100%;
+    float: left;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
 .email_text {
     width: 70%;
     margin: 0 auto;
@@ -893,7 +909,7 @@ button {
 }
 .send_btn a:hover {
     color: #ffffff;
-    background-color: #2b2278;
+    background-color: #d19843;
 }
 /* contact section end */
 
@@ -992,7 +1008,7 @@ button {
 }
 
 .call_text a:hover {
-    color: #e27141;
+    color: rgb(12, 64, 222);
 }
 
 
